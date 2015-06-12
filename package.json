@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Elehisie/ppr/issues"
   },
-  "homepage": "https://github.com/Elehisie/ppr#readme"
+  "homepage": "https://github.com/Elehisie/ppr#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
